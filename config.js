@@ -14,8 +14,8 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn Khải <3',
     reply: 'Thì do là mình yêu bạn thôi',
     question: 'Vậy tại sao lại yêu mình vậy',
-    reply: 'Tại vì mình yêu bạn từ cái nhìn đầu tiên',
     btnReply: 'Gửi cho bạn Khải <3',
+    reply: 'Tại vì mình yêu bạn từ cái nhìn đầu tiên'
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Uống trà sữa không mình mua ^^',
     btnAccept: 'Okiiiii lun <3',
