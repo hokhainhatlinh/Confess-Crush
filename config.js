@@ -1,6 +1,5 @@
 const CONFIG = {
     titleWeb: "Gửi tới crush",
-    introTitle: 'Nguyễn Nhật Linh',
     introDesc: `Trái đất vốn lạ thường
     Mà sao mình cứ đi nhầm đường
     Lạc vào tim bạn lẻ loi
