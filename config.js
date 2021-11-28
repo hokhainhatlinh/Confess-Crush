@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: 'Nguyễn Nhật Linh',
     introDesc: `Trái đất vốn lạ thường
     Mà sao mình cứ đi nhầm đường
-    Lạc vào tim ban lẻ loi
+    Lạc vào tim bạn lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng mình đã yêu ngay từ cái nhìn đầu tiên 🥰',
